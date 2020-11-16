@@ -25,7 +25,7 @@
         "forms",
         "weather",
         "Elements",
-        "butWeather.json"
+        "txtWeather.json"
       ]
     },
     {
@@ -34,7 +34,52 @@
         "forms",
         "weather",
         "Elements",
-        "txtWeather.json"
+        "inptCity.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "weather",
+        "Elements",
+        "btnLogin.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "weather",
+        "Elements",
+        "btnMaps.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "weather",
+        "Elements",
+        "btnWeather.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "weather",
+        "Elements",
+        "btnFavorites.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "weather",
+        "Elements",
+        "btnWeatherResult.json"
       ]
     }
   ],

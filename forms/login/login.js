@@ -1,5 +1,7 @@
 
 
+
+
 let req = ""
 let query = ""
 let pw = "Chicken21!"  // put your database password here
@@ -66,4 +68,6 @@ btnCreate.onclick=function(){
         // transit error
         NSB.MsgBox(`Error: ${req.status}`)
 }
+
+
 
