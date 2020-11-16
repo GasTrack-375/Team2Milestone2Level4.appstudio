@@ -1,6 +1,5 @@
 /*
 Login form
-*/
 
 let req = ""
 let query = ""
@@ -68,3 +67,4 @@ btnCreate.onclick=function(){
         // transit error
         NSB.MsgBox(`Error: ${req.status}`)
 }
+*/
