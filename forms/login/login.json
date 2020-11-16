@@ -25,7 +25,7 @@
         "forms",
         "login",
         "Elements",
-        "butLogin.json"
+        "btnLogIn.json"
       ]
     },
     {
@@ -35,6 +35,42 @@
         "login",
         "Elements",
         "txtLogin.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "login",
+        "Elements",
+        "inptUsername.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "login",
+        "Elements",
+        "inptPassword.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "login",
+        "Elements",
+        "inptEmail.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "login",
+        "Elements",
+        "btnCreate.json"
       ]
     }
   ],

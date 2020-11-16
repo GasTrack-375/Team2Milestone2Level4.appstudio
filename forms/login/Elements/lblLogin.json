@@ -19,7 +19,7 @@
   "hidden": "",
   "id": "lblLogin",
   "labelStyle": "text",
-  "left": 64,
+  "left": 17,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -42,7 +42,7 @@
   "right": "auto",
   "script": "",
   "style": "",
-  "top": 55,
-  "value": "Login Form",
+  "top": 28,
+  "value": "Welcome to GasTrack",
   "width": "auto"
 }

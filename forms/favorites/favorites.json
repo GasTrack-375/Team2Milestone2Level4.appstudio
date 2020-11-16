@@ -14,7 +14,7 @@
       "!type": "External",
       "file": [
         "forms",
-        "googleAnalytics",
+        "favorites",
         "Elements",
         "lblGA.json"
       ]
@@ -23,7 +23,7 @@
       "!type": "External",
       "file": [
         "forms",
-        "googleAnalytics",
+        "favorites",
         "Elements",
         "butGA.json"
       ]
@@ -32,7 +32,7 @@
       "!type": "External",
       "file": [
         "forms",
-        "googleAnalytics",
+        "favorites",
         "Elements",
         "Textarea1.json"
       ]
@@ -44,7 +44,7 @@
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
-  "id": "googleAnalytics",
+  "id": "favorites",
   "language": "JavaScript",
   "left": "0",
   "locked": false,
