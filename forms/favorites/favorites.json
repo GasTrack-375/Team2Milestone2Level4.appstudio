@@ -16,7 +16,7 @@
         "forms",
         "favorites",
         "Elements",
-        "lblGA.json"
+        "lblFavs.json"
       ]
     },
     {
@@ -25,7 +25,7 @@
         "forms",
         "favorites",
         "Elements",
-        "butGA.json"
+        "btnLog.json"
       ]
     },
     {
@@ -34,7 +34,61 @@
         "forms",
         "favorites",
         "Elements",
-        "Textarea1.json"
+        "txtFavs.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "favorites",
+        "Elements",
+        "inptUserName.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "favorites",
+        "Elements",
+        "inptGasID.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "favorites",
+        "Elements",
+        "btnSubmit.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "favorites",
+        "Elements",
+        "btnMap.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "favorites",
+        "Elements",
+        "butWeather.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "favorites",
+        "Elements",
+        "btnFavs.json"
       ]
     }
   ],
