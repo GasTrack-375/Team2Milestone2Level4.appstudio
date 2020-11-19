@@ -79,7 +79,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "weather",
+      "firstform": "login",
       "fontFamily": "system",
       "homescreenTitle": "",
       "icon": "nsb/images/192.png",
@@ -122,7 +122,7 @@
       "useStrict": "",
       "version": "1.0.0",
       "viewportFit": "cover",
-      "voltAppId": "",
+      "voltAppId": "grCgPV",
       "voltDomain": ""
     }
   ],

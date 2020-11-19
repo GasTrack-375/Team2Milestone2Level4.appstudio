@@ -34,15 +34,6 @@
         "forms",
         "login",
         "Elements",
-        "txtLogin.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "login",
-        "Elements",
         "inptUsername.json"
       ]
     },
