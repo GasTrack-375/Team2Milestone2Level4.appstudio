@@ -1,6 +1,5 @@
 
-
-
+//Login form
 
 let req = ""
 let query = ""
@@ -41,7 +40,7 @@ btnLogIn.onclick=function(){
     if (found == false) 
        NSB.MsgBox(`You do not have an account.`)
     else if (found == true) {
-      ChangeForm(googleMaps)
+      ChangeForm(favorites)
       } // found isi true
 }
 
@@ -68,6 +67,3 @@ btnCreate.onclick=function(){
         // transit error
         NSB.MsgBox(`Error: ${req.status}`)
 }
-
-
-

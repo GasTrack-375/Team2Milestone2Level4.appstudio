@@ -23,7 +23,7 @@
   "footer": "",
   "header": "Your favorites:",
   "headerCols": 2,
-  "height": 145,
+  "height": 87,
   "hidden": "",
   "icon": "",
   "iconTitle": "",
@@ -73,9 +73,9 @@
   "script": "",
   "spellcheck": "true",
   "style": "",
-  "top": 264,
+  "top": 320,
   "validation": "",
   "value": "",
   "valueCols": 10,
-  "width": "auto"
+  "width": 219
 }

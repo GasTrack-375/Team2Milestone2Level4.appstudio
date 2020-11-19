@@ -90,6 +90,15 @@
         "Elements",
         "btnFavs.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "favorites",
+        "Elements",
+        "inptGasName.json"
+      ]
     }
   ],
   "class": "",
