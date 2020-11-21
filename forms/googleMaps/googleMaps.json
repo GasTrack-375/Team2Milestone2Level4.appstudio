@@ -16,7 +16,7 @@
         "forms",
         "googleMaps",
         "Elements",
-        "lblGoogleMaps.json"
+        "btnSeeGasStations.json"
       ]
     },
     {
@@ -25,7 +25,7 @@
         "forms",
         "googleMaps",
         "Elements",
-        "butGoogleMaps.json"
+        "txtResults.json"
       ]
     },
     {
@@ -34,7 +34,52 @@
         "forms",
         "googleMaps",
         "Elements",
-        "txtGoogleMaps.json"
+        "inpCityName.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "googleMaps",
+        "Elements",
+        "btnHome.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "googleMaps",
+        "Elements",
+        "btnThisPage.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "googleMaps",
+        "Elements",
+        "btnFavoritesPage.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "googleMaps",
+        "Elements",
+        "btnWeatherPage.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "googleMaps",
+        "Elements",
+        "lblMaps.json"
       ]
     }
   ],

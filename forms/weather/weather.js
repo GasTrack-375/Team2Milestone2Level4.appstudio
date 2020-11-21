@@ -1,3 +1,4 @@
+
 // use your own url copied from Postman
 let city = ""
 let myURL = ""
@@ -54,8 +55,8 @@ function callAPI(URL) {
 
 btnWeatherResult.onclick = function(){
   // call the API calling code above
-  city= inptCity.value
-  myURL= "api.openweathermap.org/data/2.5/weather?q="+city+"&appid=3e9678995cb843c5c16bbc783f0146b4"
+  city = inptCity.value
+  myURL = "api.openweathermap.org/data/2.5/weather?q="+city+"&appid=3e9678995cb843c5c16bbc783f0146b4"
   callAPI(myURL)
 }
 
