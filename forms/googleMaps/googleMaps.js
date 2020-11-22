@@ -3,18 +3,22 @@
 let myCity = ""
 let myURL2 = ""
 
-function onXHRLoad() {
+function onXHRLoad2() {
     let messages = ""
     let apiStation = JSON.parse(this.responseText)
     console.log(apiStation)
+    for (i = 0; i < 3; i++) {
     console.log('${apiStation.results[0].name}')
     console.log('${apiStation.results[0].rating}')
     console.log('${apiStation.results[0].price_level}')
     console.log('${apiStation.results[0].vicinity}')
     
-    messages = messages + "Name "+ apiStation.results[0].name+ "\n"+ "Rating: "+ apiStation.results[0].rating+ "\n"+ "Price Level: " +apiStation.results[0].price_level+ "\n"+ "Vicinity: "+ apiStation.results[0].vicinity
+    messages = messages + "Name: "+ apiStation.results[i].name+ "\n"+ "Rating: "+ apiStation.results[i].rating+ "\n"+ "Price Level: " +apiStation.results[i].price_level+ "\n"+ "Vicinity: "+ apiStation.results[i].vicinity + "\n" + "\n"
+
     console.log(messages)
+    }
     txtResults.value = messages
+
 
 }
 
@@ -48,7 +52,7 @@ function callAPI2(URL2) {
 
 
     // make the API request
-    xhttp2.addEventListener('load', onXHRLoad)
+    xhttp2.addEventListener('load', onXHRLoad2)
     xhttp2.send()
 }
 
@@ -56,7 +60,7 @@ function callAPI2(URL2) {
 btnSeeGasStations.onclick=function(){
 // call the API calling code above 
   myCity = inpCityName.value
-  myURL2 = "https://maps.googleapis.com/maps/api/place/textsearch/xml?query=gas+stations+in"+myCity+"&key=AIzaSyDocXRyXouIOjhS3TONyudZmHUOgrEof3Y&minprice=0&maxprice=4&keyword=address"
+  myURL2 = "https://maps.googleapis.com/maps/api/place/textsearch/json?query=gas+stations+in"+myCity+"&key=AIzaSyDocXRyXouIOjhS3TONyudZmHUOgrEof3Y&minprice=0&maxprice=4&keyword=address"
   callAPI2(myURL2)
 }
 
