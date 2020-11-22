@@ -2,7 +2,7 @@
   "!type": "Form",
   "HTML": null,
   "attributes": "",
-  "background": "",
+  "background": "#424C4E",
   "backgroundimage": "",
   "borderColor": "",
   "borderStyle": "",
@@ -43,7 +43,7 @@
         "forms",
         "googleMaps",
         "Elements",
-        "btnHome.json"
+        "btnPrices4.json"
       ]
     },
     {
@@ -79,7 +79,7 @@
         "forms",
         "googleMaps",
         "Elements",
-        "lblMaps.json"
+        "lblNearbyStations.json"
       ]
     }
   ],

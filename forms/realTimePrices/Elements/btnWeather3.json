@@ -28,8 +28,8 @@
   "hidden": "",
   "icon": "",
   "iconTitle": "",
-  "id": "btnSubmit",
-  "left": 131,
+  "id": "btnWeather3",
+  "left": 143,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -60,7 +60,7 @@
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
-  "top": 219,
-  "value": "Submit",
+  "top": 426,
+  "value": "Weather",
   "width": "auto"
 }

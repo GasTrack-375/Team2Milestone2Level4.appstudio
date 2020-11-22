@@ -28,14 +28,14 @@
   "hidden": "",
   "icon": "",
   "iconTitle": "",
-  "id": "btnSubmit",
-  "left": 131,
+  "id": "btnPrices",
+  "left": 0,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
   "mRight": "",
   "mTop": "",
-  "onclick": "",
+  "onclick": "btnLog.onclick()",
   "onmousedown": "",
   "onmousemove": "",
   "onmouseout": "",
@@ -60,7 +60,7 @@
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
-  "top": 219,
-  "value": "Submit",
-  "width": "auto"
+  "top": 426,
+  "value": "Prices",
+  "width": "automatic"
 }

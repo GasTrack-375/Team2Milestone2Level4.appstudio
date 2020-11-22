@@ -2,7 +2,7 @@
   "!type": "Form",
   "HTML": null,
   "attributes": "",
-  "background": "",
+  "background": "#424C4E",
   "backgroundimage": "",
   "borderColor": "",
   "borderStyle": "",
@@ -16,16 +16,7 @@
         "forms",
         "favorites",
         "Elements",
-        "lblFavs.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "favorites",
-        "Elements",
-        "btnLog.json"
+        "btnPrices.json"
       ]
     },
     {
@@ -97,6 +88,24 @@
         "forms",
         "favorites",
         "Elements",
+        "lblFavorites.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "favorites",
+        "Elements",
+        "txtOptions.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "favorites",
+        "Elements",
         "inptGasName.json"
       ]
     }
@@ -124,5 +133,5 @@
   "style": "",
   "theme": "",
   "top": "0",
-  "width": 320
+  "width": "automatic"
 }
