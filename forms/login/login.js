@@ -48,8 +48,8 @@ btnLogIn.onclick=function(){
 
 
 btnCreate.onclick=function(){
-    let username= inptUsername.value
-    let password = inptPassword.value
+    let username= inptUsername2.value
+    let password = inptPassword2.value
     let email = inptEmail.value
     let query = "INSERT INTO user (username,password,email) VALUES ('"+ username + "', '" + password+ "', '" + email+ "')"
     // look at how the query is rendered

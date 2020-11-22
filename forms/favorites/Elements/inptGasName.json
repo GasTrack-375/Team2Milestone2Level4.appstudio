@@ -32,7 +32,7 @@
   "id": "inptGasName",
   "inputType": "text",
   "inputmode": "",
-  "left": 14,
+  "left": 163,
   "leftText": "",
   "mAll": "",
   "mBottom": "",
@@ -81,9 +81,9 @@
   "spellcheck": "true",
   "step": "",
   "style": "",
-  "top": 225,
+  "top": 127,
   "validation": "",
   "value": "",
   "valueCols": 10,
-  "width": "auto"
+  "width": 161
 }

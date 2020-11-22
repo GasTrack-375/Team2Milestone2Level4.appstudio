@@ -2,7 +2,7 @@
   "!type": "Form",
   "HTML": null,
   "attributes": "",
-  "background": "",
+  "background": "#424C4E",
   "backgroundimage": "",
   "borderColor": "",
   "borderStyle": "",
@@ -10,15 +10,6 @@
   "cached_js": null,
   "cached_js_script_hash": null,
   "children": [
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "login",
-        "Elements",
-        "lblLogin.json"
-      ]
-    },
     {
       "!type": "External",
       "file": [
@@ -52,7 +43,7 @@
         "forms",
         "login",
         "Elements",
-        "inptEmail.json"
+        "inptPassword2.json"
       ]
     },
     {
@@ -62,6 +53,42 @@
         "login",
         "Elements",
         "btnCreate.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "login",
+        "Elements",
+        "inptEmail.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "login",
+        "Elements",
+        "inptUsername2.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "login",
+        "Elements",
+        "lblCreateAccount.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "login",
+        "Elements",
+        "lblWelcome.json"
       ]
     }
   ],

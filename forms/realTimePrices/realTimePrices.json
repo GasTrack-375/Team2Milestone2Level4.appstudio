@@ -2,7 +2,7 @@
   "!type": "Form",
   "HTML": null,
   "attributes": "",
-  "background": "",
+  "background": "#424C4E",
   "backgroundimage": "",
   "borderColor": "",
   "borderStyle": "",
@@ -16,25 +16,52 @@
         "forms",
         "realTimePrices",
         "Elements",
-        "butRTP.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "realTimePrices",
-        "Elements",
-        "lblRTP.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "realTimePrices",
-        "Elements",
         "txtRTP.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "realTimePrices",
+        "Elements",
+        "btnPrices3.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "realTimePrices",
+        "Elements",
+        "btnMaps3.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "realTimePrices",
+        "Elements",
+        "btnWeather3.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "realTimePrices",
+        "Elements",
+        "btnFavorites3.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "realTimePrices",
+        "Elements",
+        "lblRealTimePrices.json"
       ]
     }
   ],
