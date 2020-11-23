@@ -15,13 +15,30 @@
   "display": "",
   "expanded_pmp": null,
   "fontFamily": "",
+<<<<<<< HEAD
+<<<<<<< HEAD:forms/login/Elements/lblWelcome.json
+=======
+>>>>>>> a765ea947b713332468f352a127009a08a6aa250
   "fontSize": "26",
   "fontStyle": "",
   "fontWeight": "900",
   "height": "auto",
   "hidden": "",
   "id": "lblWelcome",
+<<<<<<< HEAD
+  "left": 18,
+=======
+  "fontSize": "15",
+  "fontStyle": "",
+  "fontWeight": "400",
+  "height": "auto",
+  "hidden": "",
+  "id": "lblCreateAccount",
+  "left": 20,
+>>>>>>> a765ea947b713332468f352a127009a08a6aa250:forms/login/Elements/lblCreateAccount.json
+=======
   "left": 17,
+>>>>>>> a765ea947b713332468f352a127009a08a6aa250
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -44,7 +61,19 @@
   "right": "auto",
   "script": "",
   "style": "",
+<<<<<<< HEAD
+<<<<<<< HEAD:forms/login/Elements/lblWelcome.json
+  "text": "Welcome to GasTrack!",
+  "top": 16,
+  "width": 298
+=======
+  "text": "Don't Have an Account? Create one here!",
+  "top": 248,
+  "width": "auto"
+>>>>>>> a765ea947b713332468f352a127009a08a6aa250:forms/login/Elements/lblCreateAccount.json
+=======
   "text": "Welcome to GasTrack!",
   "top": 25,
   "width": 298
+>>>>>>> a765ea947b713332468f352a127009a08a6aa250
 }

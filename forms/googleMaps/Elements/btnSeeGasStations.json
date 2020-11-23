@@ -29,7 +29,7 @@
   "icon": "",
   "iconTitle": "",
   "id": "btnSeeGasStations",
-  "left": 218,
+  "left": 219,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -60,7 +60,7 @@
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
-  "top": 164,
+  "top": 223,
   "value": "Submit",
   "width": "auto"
 }

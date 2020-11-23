@@ -21,15 +21,25 @@
   "fontStyle": "",
   "fontWeight": "",
   "footer": "",
+<<<<<<< HEAD
+  "header": "Gas Station IDs",
+  "headerCols": 2,
+  "height": 140,
+=======
   "header": "Gas Station ID's",
   "headerCols": 2,
   "height": 139,
+>>>>>>> a765ea947b713332468f352a127009a08a6aa250
   "hidden": "",
   "icon": "",
   "iconTitle": "",
   "id": "txtOptions",
   "inputmode": "",
+<<<<<<< HEAD
+  "left": 166,
+=======
   "left": 172,
+>>>>>>> a765ea947b713332468f352a127009a08a6aa250
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -73,9 +83,17 @@
   "script": "",
   "spellcheck": "true",
   "style": "",
+<<<<<<< HEAD
+  "top": 282,
+  "validation": "",
+  "value": "",
+  "valueCols": 10,
+  "width": 151
+=======
   "top": 274,
   "validation": "",
   "value": "",
   "valueCols": 10,
   "width": "auto"
+>>>>>>> a765ea947b713332468f352a127009a08a6aa250
 }

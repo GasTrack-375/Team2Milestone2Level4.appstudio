@@ -81,7 +81,11 @@
   "spellcheck": "true",
   "step": "",
   "style": "",
+<<<<<<< HEAD
+  "top": 301,
+=======
   "top": 274,
+>>>>>>> a765ea947b713332468f352a127009a08a6aa250
   "validation": "",
   "value": "",
   "valueCols": 10,
