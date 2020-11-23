@@ -77,13 +77,13 @@
   "right": "auto",
   "script": "",
   "size": "",
-  "size-lg": 4,
+  "size-lg": 2,
   "spellcheck": "true",
   "step": "",
   "style": "",
-  "top": 142,
+  "top": 192,
   "validation": "",
   "value": "",
   "valueCols": 10,
-  "width": "auto"
+  "width": 141
 }

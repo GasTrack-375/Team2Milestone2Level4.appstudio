@@ -2,7 +2,7 @@
   "!type": "Button_bs4",
   "ChangeForm": "",
   "appearance": " btn-secondary",
-  "backgroundColor": "",
+  "backgroundColor": "#4B9F94",
   "badge": "",
   "badgeAppearance": " badge-info",
   "blockLevel": "",
@@ -29,7 +29,7 @@
   "icon": "",
   "iconTitle": "",
   "id": "btnWeatherResult",
-  "left": 190,
+  "left": 177,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -60,7 +60,7 @@
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
-  "top": 217,
+  "top": 199,
   "value": "Find Weather ",
   "width": 118
 }

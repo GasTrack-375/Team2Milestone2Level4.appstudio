@@ -8,6 +8,22 @@ let gasID = ""
 let query2 = ""
 let results2 = ""
 let gasName = ""
+let query4 = ""
+let req4 = ""
+let message4 = ""
+
+favorites.onshow = function(){
+    query4 = "SELECT * FROM gas_station"
+    req4 = Ajax("https://ormond.creighton.edu/courses/375/ajax-connection.php", "POST", "host=ormond.creighton.edu&user=dtn75570&pass=" + pw + "&database=dtn75570&query=" + query4)
+     if (req.status == 200) { 
+        allGasStations = JSON.parse(req4.responseText)
+        for (i = 0; i < allGasStations.length; i++)
+            message4 = message4 + allGasStations[i] + "\n"
+        txtOptions.value = message4
+    } else {
+        txtOptions.value = `Error: ${req.status}`
+    }  
+}
 
 btnSubmit.onclick=function(){
     user = inptUserName.value
@@ -43,8 +59,8 @@ btnSubmit.onclick=function(){
 
 
 
-btnLog.onclick=function(){
-  ChangeForm(login)
+btnPrices.onclick=function(){
+  ChangeForm(realTimePrices)
 }
 
 btnMap.onclick=function(){

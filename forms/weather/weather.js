@@ -60,8 +60,8 @@ btnWeatherResult.onclick = function(){
   callAPI(myURL)
 }
 
-btnLogin.onclick=function(){
-  ChangeForm(login)
+btnPrices2.onclick=function(){
+  ChangeForm(realTimePrices)
 }
 
 btnMaps.onclick=function(){

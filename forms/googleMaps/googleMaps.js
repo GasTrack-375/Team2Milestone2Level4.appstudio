@@ -60,8 +60,8 @@ btnSeeGasStations.onclick=function(){
   callAPI2(myURL2)
 }
 
-btnHome.onclick=function(){
-  ChangeForm(login)
+btnPrices4.onclick=function(){
+  ChangeForm(realTimePrices)
 }
 
 btnWeatherPage.onclick=function(){

@@ -2,7 +2,7 @@
   "!type": "Form",
   "HTML": null,
   "attributes": "",
-  "background": "",
+  "background": "#424C4E",
   "backgroundimage": "",
   "borderColor": "",
   "borderStyle": "",
@@ -10,15 +10,6 @@
   "cached_js": null,
   "cached_js_script_hash": null,
   "children": [
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "weather",
-        "Elements",
-        "lblWeather.json"
-      ]
-    },
     {
       "!type": "External",
       "file": [
@@ -43,7 +34,7 @@
         "forms",
         "weather",
         "Elements",
-        "btnLogin.json"
+        "btnPrices2.json"
       ]
     },
     {
@@ -80,6 +71,15 @@
         "weather",
         "Elements",
         "btnWeatherResult.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "weather",
+        "Elements",
+        "lblWeather.json"
       ]
     }
   ],

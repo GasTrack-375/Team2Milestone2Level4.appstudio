@@ -2,7 +2,7 @@
   "!type": "Button_bs4",
   "ChangeForm": "",
   "appearance": " btn-secondary",
-  "backgroundColor": "",
+  "backgroundColor": "#4B9F94",
   "badge": "",
   "badgeAppearance": " badge-info",
   "blockLevel": "",
@@ -28,8 +28,8 @@
   "hidden": "",
   "icon": "",
   "iconTitle": "",
-  "id": "btnLogin",
-  "left": 1,
+  "id": "btnPrices2",
+  "left": 0,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -61,6 +61,6 @@
   "style": "",
   "toggleControl": "",
   "top": 426,
-  "value": "Log In",
+  "value": "Prices",
   "width": "auto"
 }
