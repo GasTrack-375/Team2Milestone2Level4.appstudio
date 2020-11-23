@@ -53,7 +53,7 @@ btnCreate.onclick=function(){
     let email = inptEmail.value
     let query = "INSERT INTO user (username,password,email) VALUES ('"+ username + "', '" + password+ "', '" + email+ "')"
     // look at how the query is rendered
-    alert(query)
+    //alert(query)
     
     // replace my netID with yours (2 places)
     req = Ajax("https://ormond.creighton.edu/courses/375/ajax-connection.php", "POST", "host=ormond.creighton.edu&user=dtn75570&pass=" + pw + "&database=dtn75570&query=" + query)
@@ -62,7 +62,7 @@ btnCreate.onclick=function(){
         if (req.responseText == 500)    // for our server - this means the insert succeeded
             NSB.MsgBox(`You have successfully created an account!`)
         else
-            NSB.MsgBox(`You have aready had an account.`)
+            NSB.MsgBox(`You already have an account.`)
     } else 
         // transit error
         NSB.MsgBox(`Error: ${req.status}`)

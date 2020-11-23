@@ -43,7 +43,7 @@
         "forms",
         "login",
         "Elements",
-        "inptEmail.json"
+        "inptPassword2.json"
       ]
     },
     {
@@ -61,7 +61,7 @@
         "forms",
         "login",
         "Elements",
-        "inptPassword2.json"
+        "inptEmail.json"
       ]
     },
     {
