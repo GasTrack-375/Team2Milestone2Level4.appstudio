@@ -88,15 +88,6 @@
         "forms",
         "favorites",
         "Elements",
-        "inptGasName.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "favorites",
-        "Elements",
         "lblFavorites.json"
       ]
     },
@@ -107,6 +98,15 @@
         "favorites",
         "Elements",
         "txtOptions.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "favorites",
+        "Elements",
+        "inptGasName.json"
       ]
     }
   ],

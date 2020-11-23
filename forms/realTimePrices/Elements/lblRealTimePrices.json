@@ -21,7 +21,11 @@
   "height": "auto",
   "hidden": "",
   "id": "lblRealTimePrices",
+<<<<<<< HEAD
   "left": 42,
+=======
+  "left": 43,
+>>>>>>> a765ea947b713332468f352a127009a08a6aa250
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -45,6 +49,10 @@
   "script": "",
   "style": "",
   "text": "Real-Time Prices",
+<<<<<<< HEAD
   "top": 9,
+=======
+  "top": 27,
+>>>>>>> a765ea947b713332468f352a127009a08a6aa250
   "width": 269
 }

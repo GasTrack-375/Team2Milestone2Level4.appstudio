@@ -21,7 +21,7 @@
   "height": "auto",
   "hidden": "",
   "id": "lblFavorites",
-  "left": 103,
+  "left": 102,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -45,6 +45,6 @@
   "script": "",
   "style": "",
   "text": "Favorites",
-  "top": 11,
+  "top": 26,
   "width": "auto"
 }

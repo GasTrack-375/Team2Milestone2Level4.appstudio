@@ -13,8 +13,8 @@ let req4 = ""
 let message4 = ""
 
 favorites.onshow = function(){
-    query4 = "SELECT * FROM gas_station"
-    req4 = Ajax("https://ormond.creighton.edu/courses/375/ajax-connection.php", "POST", "host=ormond.creighton.edu&user=dtn75570&pass=" + pw + "&database=dtn75570&query=" + query4)
+    query4 = "SELECT * FROM gas_station"
+    req4 = Ajax("https://ormond.creighton.edu/courses/375/ajax-connection.php", "POST", "host=ormond.creighton.edu&user=dtn75570&pass=" + pw + "&database=dtn75570&query=" + query4)
      if (req.status == 200) { 
         allGasStations = JSON.parse(req4.responseText)
         for (i = 0; i < allGasStations.length; i++)
